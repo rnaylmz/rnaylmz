@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently learning Java and Spring Framework.
+
+How can reach me: https://www.linkedin.com/in/ranayılmaz/
 <!--
 **rnaylmz/rnaylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
