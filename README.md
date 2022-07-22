@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning Java and Spring Framework.
+- 🌱 I'm currently learning Java and Spring Boot.
 
 - 📫 How can reach me: https://www.linkedin.com/in/ranayılmaz/
 <!--
