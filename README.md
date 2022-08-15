@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Yılmaz</h1>
-<h3 align="center">A  Backedd learner from Turkey </h3>
+<h3 align="center">A  Backend learner from Turkey </h3>
 
 
 - 🌱 I’m currently learning **Java and Spring Boot.**
