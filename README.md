@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana</h1>
-<h3 align="center">An AI developer from Turkey</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnaylmz" alt="rnaylmz" /></a> </p>
+<h3 align="center">An AI developer from Tukey</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
